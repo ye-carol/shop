@@ -1,9 +1,3 @@
-/*
-* @Author: yao
-* @Date:   2018-04-10 10:32:50
-* @Last Modified by:   yao
-* @Last Modified time: 2018-04-10 11:25:07
-*/
 import Vue from 'vue'
 
 const state = {
